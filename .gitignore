@@ -1,0 +1,4 @@
+node_modules
+dist/main.bundle.js
+.DS_Store
+jsconfig.js
